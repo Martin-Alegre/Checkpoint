@@ -60,7 +60,7 @@ img {
     justify-content: center;
     align-items: center;
     border-radius: 30px;
-    background-color: rgb(216, 15, 182) ;
+    background-color: rgba(216, 15, 182, 0.356) ;
 }
 button {
     background-color:rgb(216, 15, 182);
